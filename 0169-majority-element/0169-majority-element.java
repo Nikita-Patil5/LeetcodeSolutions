@@ -1,31 +1,24 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int majorityCount = nums.length / 2;
+         int candidate = 0; // Can be initialized to any value
+        int count = 0;
 
-        int element = 0, count = 0;
-        for(int num : nums){
-            if(count == 0){
-                count = 1;
-                element = num;
-            } else if(element == num){
-                    count++;
-            } else{
-                    count--;
+        for (int num : nums) {
+            // If count is 0, we choose a new candidate
+            if (count == 0) {
+                candidate = num;
             }
-    
-        }
 
-        int eleCount = 0;
-        for(int num : nums){
-            if(num == element){
-                eleCount++;
+            // If the current number is our candidate, we increment the count.
+            // Otherwise, we decrement it.
+            if (num == candidate) {
+                count++;
+            } else {
+                count--;
             }
         }
-
-        if(eleCount > majorityCount){
-            return element;
-        }
-
-        return -1;
-    }
-}
+        
+        // Because the problem guarantees a majority element exists,
+        // the final candidate is our answer. No second pass is needed.
+        return candidate;
+    }}
