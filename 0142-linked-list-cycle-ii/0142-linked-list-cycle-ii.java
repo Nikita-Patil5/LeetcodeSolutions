@@ -16,30 +16,23 @@ public class Solution {
         }
         ListNode slow = head;
         ListNode fast = head;
-        boolean hasCycle = false;
 
         while(fast != null && fast.next != null){
             slow = slow.next;
             fast = fast.next.next;
 
             if(slow == fast){
-                hasCycle = true;
-                break;
+                slow = head;
+
+                while(slow != fast){
+                    slow = slow.next;
+                    fast = fast.next;
+                }
+
+                return slow;
             }
         }
-
-        if(!hasCycle){
-            return null;
-        }
-
-        ListNode ptr1 = head;
-        ListNode ptr2 = slow;
-
-        while(ptr1 != ptr2){
-            ptr1 = ptr1.next;
-            ptr2 = ptr2.next;
-        }
-
-        return ptr1;
+    return null;
+        
     }
 }
