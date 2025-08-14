@@ -16,13 +16,13 @@ public class Solution {
 
         while(current != null){
             if(visitedList.containsKey(current)){
-                break;
+                return current;
             }
 
             visitedList.put(current,true);
             current = current.next;
         }
 
-        return current;
+        return null;
     }
 }
