@@ -7,11 +7,13 @@
 | [0001-two-sum](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0015-3sum/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0217-contains-duplicate](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0001-two-sum/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0217-contains-duplicate](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,4 +37,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0015-3sum/) | Medium |
+| [0217-contains-duplicate](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
