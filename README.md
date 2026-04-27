@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0015-3sum/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -25,6 +26,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -39,6 +41,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
