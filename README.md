@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -36,6 +37,7 @@
 | [0075-sort-colors](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -71,4 +73,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
