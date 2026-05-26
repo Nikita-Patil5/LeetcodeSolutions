@@ -16,6 +16,7 @@
 | [0283-move-zeroes](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
