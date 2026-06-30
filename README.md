@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0015-3sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0075-sort-colors/) | Medium |
@@ -40,6 +41,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0015-3sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -95,5 +97,14 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
