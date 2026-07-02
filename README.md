@@ -14,6 +14,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -29,6 +30,7 @@
 | [0049-group-anagrams](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0169-majority-element](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0268-missing-number/) | Easy |
@@ -69,6 +71,7 @@
 | [0015-3sum](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0268-missing-number/) | Easy |
@@ -112,4 +115,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0238-product-of-array-except-self/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
