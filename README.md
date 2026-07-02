@@ -24,6 +24,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +38,7 @@
 | [0268-missing-number](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +120,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
