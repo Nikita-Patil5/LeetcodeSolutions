@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -74,6 +75,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
