@@ -41,6 +41,7 @@
 | [0268-missing-number](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -67,6 +68,7 @@
 | [0049-group-anagrams](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0242-valid-anagram/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -152,4 +154,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 <!---LeetCode Topics End-->
