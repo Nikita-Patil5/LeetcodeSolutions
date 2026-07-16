@@ -44,6 +44,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0567-permutation-in-string/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +62,7 @@
 | [0283-move-zeroes](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0567-permutation-in-string](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -70,6 +72,7 @@
 | [0125-valid-palindrome](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -159,4 +162,5 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/Nikita-Patil5/LeetcodeSolutions/tree/main/0567-permutation-in-string/) | Medium |
 <!---LeetCode Topics End-->
